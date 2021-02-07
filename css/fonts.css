@@ -1,0 +1,61 @@
+/*ROBOTO*/
+@font-face {
+	font-family: 'Roboto', sans-serif;
+	src: url("../fonts/roboto/robotothin.ttf") format('truetype');
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: 'Roboto', sans-serif;
+	src: url("../fonts/roboto/robotolight.ttf") format('truetype');
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: 'Roboto', sans-serif;
+	src: url("../fonts/roboto/robotoregular.ttf") format('truetype');
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'Roboto', sans-serif;
+	src: url("../fonts/roboto/robotomedium.ttf") format('truetype');
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: 'Roboto', sans-serif;
+	src: url("../fonts/roboto/robotobold.ttf") format('truetype');
+	font-weight: 700;
+}
+/*ROBOTO SLAB*/
+@font-face {
+	font-family: 'Roboto-Slab', sans-serif;
+	src: url("../fonts/robotoslab/robotoslabthin.ttf") format('truetype');
+	font-weight: 100;
+}
+@font-face {
+	font-family: 'Roboto-Slab', sans-serif;
+	src: url("../fonts/robotoslab/robotoslablight.ttf") format('truetype');
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: 'Roboto-Slab', sans-serif;
+	src: url("../fonts/robotoslab/robotoslabregular.ttf") format('truetype');
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'Roboto-Slab', sans-serif;
+	src: url("../fonts/robotoslab/robotoslabmedium.ttf") format('truetype');
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: 'Roboto-Slab', sans-serif;
+	src: url("../fonts/robotoslab/robotoslabbold.ttf") format('truetype');
+	font-weight: 700;
+}
+
+

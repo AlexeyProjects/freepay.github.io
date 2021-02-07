@@ -1,0 +1,10 @@
+.icon {
+	width: 2rem;
+	height: 3rem;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center center;
+}
+.burger.icon {
+	background-image: url(../img/burger.png);
+}

@@ -1,0 +1,32 @@
+@media screen and (min-width: 1281px) {
+  .navRight {
+    display: none;
+  }
+}
+@media screen and (max-width: 1280px) {
+  .container {
+    width: 100%;
+    padding: 0 1.5rem;
+  }
+
+  form#getDemo {
+    width: 100% !important;
+  }
+
+  .card {
+    width: 100% !important;
+  }
+
+  header .navbar {
+    display: none !important;
+  }
+
+  .footList {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .footList .footItem {
+    width: 50%;
+    margin-bottom: 2rem;
+  }
+}
